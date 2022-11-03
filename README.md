@@ -8,6 +8,7 @@ Veri yapıları ve Algoritma kursunun sonunda verilen projelerimiz
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Big-O gösterimini yazınız.
+
 **Time Complexity:** 
 
 Average case: Aradığımız sayının ortada olması,
