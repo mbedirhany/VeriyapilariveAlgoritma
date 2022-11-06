@@ -10,3 +10,5 @@ VeriYapilariveAlgoritma
 [16] [11,21]    [8] [12,22]         **Son kez birleştiriyoruz**
 [8,11,12,16,21,22]
 ```
+
+[Patika.dev](https://www.patika.dev/tr)
