@@ -27,8 +27,6 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 [16,21,11,8,12,22] -> Merge Sort
 
-<<<<<<< HEAD
-
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 Big-O gösterimini yazınız.
@@ -38,8 +36,3 @@ Big-O gösterimini yazınız.
 ## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
-=======
-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-
-Big-O gösterimini yazınız.
->>>>>>> ce2c8ec81b1172b63f134b25d8373308a14f4d8a
