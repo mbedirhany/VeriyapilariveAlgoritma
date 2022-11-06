@@ -38,5 +38,4 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 [2,3,4,5,6,9,8,15,7] **Aşama 4**
 
 
-
 [Patika.dev](https://www.patika.dev/tr)
