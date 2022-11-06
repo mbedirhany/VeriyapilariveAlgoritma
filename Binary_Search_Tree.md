@@ -19,6 +19,7 @@
 
 ## Aşamalar
 
+
 Tree'ye eleman eklemek istediğimizde roottan başlıyoruz.
 
 Sonrasında sağ tarafına kendinden büyük elemanları, sol tarafında ise kendinden küçük elemanları koyuyoruz.
